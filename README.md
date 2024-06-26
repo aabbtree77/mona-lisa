@@ -17,11 +17,13 @@ One does not often get to see unique things that have a purpose. Here is one:
 </tr>
 </table>
 
-It was based on the Soviet K155-series microchips, with gas discharge displays. The whole thing consumed electricity like a heater and was not particularly precise. I could not recover the original electric circuit diagram. I could only recall that it was in a thin Russian book with a greenish cover about how to construct various home-made generators and radios.
+It was based on the Soviet TTL K155-series microchips, with gas discharge displays. The whole thing consumed electricity like a heater. 
+
+The electric circuit diagram seems to be lost. ChatGPT does provide some strong clues where to look for, which is surprising considering old Soviet books which do not exist online. Unfortunately, the whole Technology Library of Lithuania is gone now. 
 
 # Historical Context
 
-Personal computers were very rare at the time in Lithuania. My secondary school "information technology" class taught us how to use [ChiWriter](https://en.wikipedia.org/wiki/ChiWriter) which must have run on [Robotron](https://en.wikipedia.org/wiki/VEB_Robotron), a DOS-compatible East Germany-made personal computer. Computers were optional, most of the lessons went on with paper and pencil about Claude Shannon and Boolean algebra. We did not have access to the design of PCBs with say, P-CAD and automated printers. The circuit board design was completely hand-drawn based on an electric circuit diagram.
+Personal computers were very rare at the time in Lithuania. My secondary school "information technology" class taught us how to use [ChiWriter](https://en.wikipedia.org/wiki/ChiWriter) which must have run on [Robotron](https://en.wikipedia.org/wiki/VEB_Robotron), a DOS-compatible East Germany-made personal computer. Computers were an optional once-a-week matter, most of the lessons went on with paper and pencil about Claude Shannon and Boolean algebra. We did not have access to the design of PCBs with say, P-CAD and automated printers. The circuit board design was completely hand-drawn.
 
 # Circuit Board Printing
 
@@ -29,7 +31,7 @@ We used a single copper (Cu) plated board, the routes were drawn with a nail pol
 
 At first, we applied ferric chloride (Fe2Cl3) to etch the circuit routes, but our solution was not effective and we would wait for days if not weeks for the irrelevant Cu-parts to disappear from the board's surface. A slight warming or periodic movement would not speed a chemical reaction much. The designs were flawed in that there was so much copper to remove.
 
-I remember doing a silly thing once. After losing patience of watching over a never ending reaction, I decided to pour hydrochloric acid HCl on some metal shavings in a big plastic can used for sardines, to get a "stronger ferric chloride". **Do not do this at home. I nearly lost my lungs.**
+Once, after losing patience of watching over a never ending reaction, I decided to pour hydrochloric acid HCl on some metal shavings in a big plastic can used for sardines, to get a "stronger ferric chloride". **Do not do this at home. I nearly lost my lungs.**
 
 At some point we started using cupric sulfate CuSO4. This was faster, but not by much. Years later I would also see my uncle use cupric sulfate to paint the trunks of the apple trees...
 
