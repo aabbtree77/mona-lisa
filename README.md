@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is my Mona Lisa, build in Lithuania around 1992 I believe, could have been still the USSR of late 1980s. I was around 14, building a digital clock, guided by my father.
+This is my Mona Lisa, built in Lithuania around 1992, could have been the USSR of late 1980s. I was around 14, making my own digital clock, guided by my father.
 
 <table>
 <tr>
@@ -15,21 +15,19 @@ This is my Mona Lisa, build in Lithuania around 1992 I believe, could have been 
 </tr>
 </table>
 
-It was based on the Soviet K155-series microchips with gas discharge displays. 
+It was based on the Soviet K155-series microchips, with gas discharge displays. The whole thing consumed electricity like a heater and was not particularly precise. I could not recover the original electric circuit diagram, it was a thin Soviet book with a greenish cover about how to construct various toy generators and radios.
 
 # Historical Context
 
-Personal computers were very rare at the time in Lithuania. I remember my secondary school "information technology" class teaching us how to use [ChiWriter](https://en.wikipedia.org/wiki/ChiWriter) which must have run on [Robotron](https://en.wikipedia.org/wiki/VEB_Robotron), a DOS-compatible East Germany-made personal computer. Computers were optional, most of the lessons went on with paper and pencil about Claude Shannon and Boolean algebra. We did not have access to the design of PCBs with say, P-CAD.
+Personal computers were very rare at the time in Lithuania. I remember my secondary school "information technology" class teaching us how to use [ChiWriter](https://en.wikipedia.org/wiki/ChiWriter) which must have run on [Robotron](https://en.wikipedia.org/wiki/VEB_Robotron), a DOS-compatible East Germany-made personal computer. Computers were optional, most of the lessons went on with paper and pencil about Claude Shannon and Boolean algebra. We did not have access to the design of PCBs with say, P-CAD and automated printers. The circuit board design was completely hand-drawn based on the electric circuit diagram.
 
 # Circuit Board Printing
-
-The design was completely hand-drawn based on the electric circuit diagram.
 
 The fun part was the printing chemistry. 
 
 We used a single copper (Cu) plated board, the routes were drawn with a nail polish followed by the board immersion into some chemical liquid compound. This was very rough and tedious, needless to say.
 
-At first, we have used ferric chloride (Fe2Cl3) to etch the circuit routes, but our solution was not effective and we would wait for days if not weeks for the irrelevant Cu-parts to disappear from the board's surface. A slight warming or periodic movement would not speed a chemical reaction much. The designs were flawed in that there was so much copper to remove.
+At first, we applied ferric chloride (Fe2Cl3) to etch the circuit routes, but our solution was not effective and we would wait for days if not weeks for the irrelevant Cu-parts to disappear from the board's surface. A slight warming or periodic movement would not speed a chemical reaction much. The designs were flawed in that there was so much copper to remove.
 
 I remember taking my own initiative when being alone at home once. After losing patience of watching over a never ending reaction, I decided to pour hydrochloric acid HCl on some metal shavings in a big plastic can used for sardines, to get a "stronger ferric chloride". **Do not do this at home. I nearly lost my lungs there.**
 
@@ -53,7 +51,7 @@ This knowledge was insufficient for small transformers. A small transformer size
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: Inside the Box</th>
+<th style="text-align:center"> Inside the Box</th>
 </tr>
 <tr>
 <td>
@@ -64,7 +62,7 @@ This knowledge was insufficient for small transformers. A small transformer size
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: Circuit Board Top</th>
+<th style="text-align:center"> Circuit Board: Top</th>
 </tr>
 <tr>
 <td>
@@ -75,7 +73,7 @@ This knowledge was insufficient for small transformers. A small transformer size
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: Circuit Board Bottom</th>
+<th style="text-align:center"> Circuit Board: Bottom</th>
 </tr>
 <tr>
 <td>
@@ -86,7 +84,7 @@ This knowledge was insufficient for small transformers. A small transformer size
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: Voltage Transformer</th>
+<th style="text-align:center"> Voltage Transformer</th>
 </tr>
 <tr>
 <td>
@@ -97,7 +95,7 @@ This knowledge was insufficient for small transformers. A small transformer size
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: Gas Discharge Displays</th>
+<th style="text-align:center"> Gas Discharge Displays</th>
 </tr>
 <tr>
 <td>
