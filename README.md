@@ -6,7 +6,7 @@ This is my Mona Lisa, built in Lithuania around 1992, could have been the USSR o
 
 <table>
 <tr>
-<th style="text-align:center"> My Mona Lisa: A Digital Clock based on the Soviet K155 series microchips</th>
+<th style="text-align:center"> My Mona Lisa: A Digital K155 Clock</th>
 </tr>
 <tr>
 <td>
@@ -22,8 +22,6 @@ It was based on the Soviet K155-series microchips, with gas discharge displays. 
 Personal computers were very rare at the time in Lithuania. I remember my secondary school "information technology" class teaching us how to use [ChiWriter](https://en.wikipedia.org/wiki/ChiWriter) which must have run on [Robotron](https://en.wikipedia.org/wiki/VEB_Robotron), a DOS-compatible East Germany-made personal computer. Computers were optional, most of the lessons went on with paper and pencil about Claude Shannon and Boolean algebra. We did not have access to the design of PCBs with say, P-CAD and automated printers. The circuit board design was completely hand-drawn based on the electric circuit diagram.
 
 # Circuit Board Printing
-
-The fun part was the printing chemistry. 
 
 We used a single copper (Cu) plated board, the routes were drawn with a nail polish followed by the board immersion into some chemical liquid compound. This was very rough and tedious, needless to say.
 
@@ -104,8 +102,4 @@ This knowledge was insufficient for small transformers. A small transformer size
 </tr>
 </table>
 
-# PS
 
-30 years later I would come back to electrical engineering by fixing a [factory machine](https://github.com/aabbtree77/adast) with my uncle.
-
-My father is still an avid electronics amateur who collects and sells old military radios.
