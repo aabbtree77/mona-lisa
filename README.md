@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is my Mona Lisa, built in Lithuania around 1992, could have been the USSR of late 1980s. I was around 14, making my own digital clock, guided by my father.
+This is my Mona Lisa, built in Lithuania around 1992. It could have been the USSR of the late 1980s. I was around 14, making a digital clock, guided by my father.
 
 One does not often get to see unique things that have a purpose. Here is one:
 
